@@ -1,0 +1,16 @@
+{
+    "name": "Argus Genesis #1",
+    "description": "The foundational artifact of the Argus network. A unique digital masterpiece symbolizing the birth of the celestial observer.",
+    "image": "ipfs://bafkreia7433nmtr76lolmg3i7lhw5k7barowoinieuh6zihzu7jtwsm7ha",
+    "external_url": "https://argus.genesis",
+    "attributes": [
+        {
+            "trait_type": "Origin",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}

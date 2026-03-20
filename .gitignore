@@ -1,0 +1,21 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Testing
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat
+cache
+artifacts
+
+# Environment variables
+.env
+
+# Misc
+.DS_Store
+*.log
