@@ -2,7 +2,7 @@ const hre = require("hardhat");
 
 async function main() {
     const contractAddress = "YOUR_DEPLOYED_CONTRACT_ADDRESS"; // Replace after deployment
-    const baseURI = "ipfs://bafybeib5snlqa76l7n5fznhyfhem6iwtifwxhc4kp7my7h6aldoltktnja"; // Your exact metadata JSON URI
+    const baseURI = "ipfs://bafkreiddjj4fpmpwaee5ii5zueeekgpnenowgaxsamrvd3o2ioalylmsja"; // Your exact metadata JSON URI
 
     const argus = await hre.ethers.getContractAt("ArgusGenesis", contractAddress);
 
