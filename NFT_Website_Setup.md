@@ -4,7 +4,7 @@ This guide contains everything you need to connect your `ArgusGenesis` NFT contr
 
 ## 1. Contract Configuration
 - **Network**: Base (Mainnet)
-- **Contract Address**: `YOUR_DEPLOYED_ADDRESS_HERE`
+- **Contract Address**: `0xA171059521DE838D9070bB08E732066DF7B43d4E`
 - **Mint Price**: `0.0025 ETH`
 
 ## 2. Contract ABI
@@ -54,7 +54,7 @@ Use this code with `ethers.js` to handle the transaction:
 ```javascript
 import { ethers } from "ethers";
 
-const contractAddress = "YOUR_DEPLOYED_ADDRESS_HERE";
+const contractAddress = "0xA171059521DE838D9070bB08E732066DF7B43d4E";
 const abi = [...]; // Paste the ABI here
 
 async function mintNFT() {
