@@ -24,7 +24,8 @@ On the next page, you will see a large box labeled "Enter the Solidity Contract 
 
 ### Step 4: Finalize
 1. **Optimization**: Ensure it is set to **No** (we didn't use optimization in Hardhat).
-2. Complete the Captcha.
-3. Click **"Verify and Publish"**.
+2. **EVM Version**: Click "Advanced Settings" (if available) or look for EVM Version, and set it to **paris** instead of default/shanghai.
+3. Complete the Captcha.
+4. Click **"Verify and Publish"**.
 
 Within a few seconds, a green checkmark will appear next to your "Contract" tab! 🎉
